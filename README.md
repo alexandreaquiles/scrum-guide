@@ -2,9 +2,9 @@
 
 The Definitive Guide to Scrum: The Rules of the Game
 
-July 2013
+July 2016
 
-© 1991-2013 Ken Schwaber and Jeff Sutherland, All Rights Reserved
+©2016 Scrum.Org and ScrumInc. Offered for license under the Attribution Share-Alike license of Creative Commons, accessible at http://creativecommons.org/licenses/by -sa/4.0/legalcode and also described in summary form at http://creativecommons.org/licenses/by -sa/4.0/. By utilizing this Scrum Guide you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons.
 
 Developed and sustained by Ken Schwaber and Jeff Sutherland
 
@@ -60,6 +60,12 @@ Scrum prescribes four formal events for inspection and adaptation, as described 
 - Daily Scrum
 - Sprint Review
 - Sprint Retrospective
+
+## Scrum Values
+
+When the values of commitment, courage, focus, openness and respect are embodied and lived by the Scrum Team, the Scrum pillars of transparency, inspection, and adaptation come to life and build trust for everyone. The Scrum Team members learn and explore those values as they work with the Scrum events, roles and artifacts.
+
+Successful use of Scrum depends on people becoming more proficient in living the se five values. People personally commit to achieving the goals of the Scrum Team. The Scrum Team members have courage to do the right thing and work on tough problems. Everyone focuses on the work of the Sprint and the goals of the Scrum Team. The Scrum Team and its stakeholders agree to be open about all the work and the challenges with performing the work. Scrum Team members respect each other to be capable, independent people.
 
 ## The Scrum Team
 
@@ -204,6 +210,8 @@ By the end of the Sprint Planning, the Development Team should be able to explai
 
 #### Sprint Goal
 
+The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog. It provides guidance to the Development Team on why it is building the Increment. It is created during the Sprint Planning meeting.
+
 The Sprint Goal gives the Development Team some flexibility regarding the functionality implemented within the Sprint. The selected Product Backlog items deliver one coherent function, which can be the Sprint Goal. The Sprint Goal can be any other coherence that causes the Development Team to work together rather than on separate initiatives.
 
 As the Development Team works, it keeps the Sprint Goal in mind. In order to satisfy the Sprint Goal, it implements the functionality and technology. If the work turns out to be different than the Development Team expected, they collaborate with the Product Owner to negotiate the scope of Sprint Backlog within the Sprint.
@@ -289,7 +297,7 @@ The Development Team is responsible for all estimates. The Product Owner may inf
 
 At any point in time, the total work remaining to reach a goal can be summed. The Product Owner tracks this total work remaining at least every Sprint Review. The Product Owner compares this amount with work remaining at previous Sprint Reviews to assess progress toward completing projected work by the desired time for the goal. This information is made transparent to all stakeholders.
 
-Various projective practices upon trending have been used to forecast progress, like burn-downs or burn-ups. These have proven useful. However, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has happened may be used for forward-looking decision-making.
+Various projective practices upon trending have been used to forecast progress, like burn-downs, burn-ups, or cumulative flows. These have proven useful. However, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has happened may be used for forward-looking decision-making.
 
 ### Sprint Backlog
 
@@ -323,7 +331,7 @@ When a Product Backlog item or an Increment is described as "Done", everyone mus
 
 The same definition guides the Development Team in knowing how many Product Backlog items it can select during a Sprint Planning. The purpose of each Sprint is to deliver Increments of potentially releasable functionality that adhere to the Scrum Team's current definition of "Done."
 
-Development Teams deliver an Increment of product functionality every Sprint. This Increment is useable, so a Product Owner may choose to immediately release it. If the definition of "done" for an increment is part of the conventions, standards or guidelines of the development organization, all Scrum Teams must follow it as a minimum. If "done" for an increment is not a convention of the development organization, the Development Team of the Scrum Team must define a definition of "done" appropriate for the product. If there are multiple Scrum Teams working on the system or product release, the developer teams on all of the Scrum Teams must mutually define the definition of "Done."
+Development Teams deliver an Increment of product functionality every Sprint. This Increment is useable, so a Product Owner may choose to immediately release it. If the definition of "done" for an increment is part of the conventions, standards or guidelines of the development organization, all Scrum Teams must follow it as a minimum. If "done" for an increment is not a convention of the development organization, the Development Team of the Scrum Team must define a definition of "done" appropriate for the product. If there are multiple Scrum Teams working on the system or product release, the development teams on all of the Scrum Teams must mutually define the definition of "Done."
 
 Each Increment is additive to all prior Increments and thoroughly tested, ensuring that all Increments work together.
 
