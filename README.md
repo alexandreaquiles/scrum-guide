@@ -87,20 +87,20 @@ The entire Scrum Team is accountable for creating a valuable, useful Increment e
 Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint.
 
 The specific skills needed by the Developers are often broad and will vary with the domain of work. However, the Developers are always accountable for:
-● Creating a plan for the Sprint, the Sprint Backlog;
-● Instilling quality by adhering to a Definition of Done;
-● Adapting their plan each day toward the Sprint Goal; and,
-● Holding each other accountable as professionals
+* Creating a plan for the Sprint, the Sprint Backlog;
+* Instilling quality by adhering to a Definition of Done;
+* Adapting their plan each day toward the Sprint Goal; and,
+* Holding each other accountable as professionals
 
 ### The Product Owner
 
 The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. How this is done may vary widely across organizations, Scrum Teams, and individuals.
 
 The Product Owner is also accountable for effective Product Backlog management, which includes:
-● Developing and explicitly communicating the Product Goal;
-● Creating and clearly communicating Product Backlog items;
-● Ordering Product Backlog items; and,
-● Ensuring that the Product Backlog is transparent, visible and understood.
+* Developing and explicitly communicating the Product Goal;
+* Creating and clearly communicating Product Backlog items;
+* Ordering Product Backlog items; and,
+* Ensuring that the Product Backlog is transparent, visible and understood.
 
 The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner remains accountable.
 
@@ -129,10 +129,10 @@ The Scrum Master serves the Product Owner in several ways, including:
 * Facilitating stakeholder collaboration as requested or needed.
 
 The Scrum Master serves the organization in several ways, including:
-● Leading, training, and coaching the organization in its Scrum adoption;
-● Planning and advising Scrum implementations within the organization;
-● Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
-● Removing barriers between stakeholders and Scrum Teams.
+* Leading, training, and coaching the organization in its Scrum adoption;
+* Planning and advising Scrum implementations within the organization;
+* Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
+* Removing barriers between stakeholders and Scrum Teams.
 
 ## Scrum Events
 
